@@ -1,0 +1,18 @@
+body {
+  position: relative;
+  font-family: "poppins", sans-serif;
+}
+
+@media only screen and (max-width: 480px) {
+  #about_me_desktop,
+  #desktop_nav {
+    display: none !important;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  #about_me_mobile,
+  #mobile_nav {
+    display: none !important;
+  }
+}
