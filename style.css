@@ -5,14 +5,14 @@ body {
 
 @media only screen and (max-width: 480px) {
   #about_me_desktop,
-  #desktop_nav{
-  display: none !important; 
-    }
+  #desktop_nav {
+    display: none !important;
+  }
 }
 
 @media only screen and (min-width: 480px) {
   #about_me_mobile,
-  #mobile_nav{
-  display: none !important; 
-    }
+  #mobile_nav {
+    display: none !important;
+  }
 }
